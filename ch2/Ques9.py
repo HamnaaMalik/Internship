@@ -1,3 +1,4 @@
+#Question 09: Latency Monitor (Max/Min)
 latency = [120, 150, 200, 90, 80, 300]
 max_latency = max(latency)
 min_latency = min(latency)
