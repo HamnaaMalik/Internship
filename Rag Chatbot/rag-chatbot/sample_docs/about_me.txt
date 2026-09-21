@@ -1,0 +1,9 @@
+Hamna Malik is a Full Stack AI Engineer. She works with Falcon Swift and builds
+projects using Python, HTML, CSS, Node.js, Express, Next.js, and PostgreSQL.
+
+She has built multiple AI chatbot projects, including a Gemini Chatbot, a Groq
+Chatbot, a Hugging Face Chatbot, and a Simple RAG Chatbot built with FastAPI
+and PostgreSQL (hosted on Supabase).
+
+Her main goal is to grow into a strong full-stack and AI-focused developer by
+building real, hands-on projects.
