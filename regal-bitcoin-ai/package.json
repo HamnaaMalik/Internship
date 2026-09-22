@@ -1,0 +1,28 @@
+{
+  "name": "regal-crypto-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Regal — a live Bitcoin/crypto intelligence dashboard with an AI trading assistant (Gemini or OpenAI).",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "vite build",
+    "start": "cross-env NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "lightweight-charts": "^4.1.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "cross-env": "^7.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
